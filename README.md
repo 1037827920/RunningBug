@@ -1,5 +1,11 @@
 # RunningBug
 
+## 效果展示
+
+![效果展示](RunnningBug.assets/Snipaste_2024-12-10_21-51-00.png)
+
+![效果展示](RunnningBug.assets/Snipaste_2024-12-10_21-51-35.png)
+
 ## 游戏背景
 
 你是一个诞生出自我意识的BUG，现在一名软件工程师已经在程序中发现了你的
